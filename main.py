@@ -1,6 +1,6 @@
 from random import randint
 
-test = 1
+test = 2
 DEFAULT_ATTACK = 5
 DEFAULT_DEFENCE = 10
 DEFAULT_STAMINA = 80
